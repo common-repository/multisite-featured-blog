@@ -1,0 +1,43 @@
+#settingsform{
+border:solid 2px #b7ddf2;
+background:#ebf4fb;
+padding-left:20px;
+padding-bottom:10px;
+}
+
+#settingsform h1 {
+font-size:14px;
+font-weight:bold;
+margin-bottom:20px;
+border-bottom:solid 1px #b7ddf2;
+padding-bottom:10px;
+}
+
+#settingsform label{
+display:block;
+font-weight:bold;
+text-align:right;
+width:140px;
+float:left;
+font-size:14px;
+padding-top:5px;
+}
+
+#settingsform input{
+float:left;
+font-size:12px;
+padding:4px 2px;
+border:solid 1px #aacfe4;
+width:200px;
+
+}
+
+#blogdetails
+{
+	clear:both;
+}
+
+#blogdetails input
+{
+	float:none;
+}
